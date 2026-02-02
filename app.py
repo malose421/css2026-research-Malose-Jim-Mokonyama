@@ -171,9 +171,9 @@ elif page == "Contact":
 
     st.markdown("""
     <div class="card">
-    *Email:* malosejim421@gmail.com  
-    *Phone:* 079 897 6062  
-    *Location:* Pretoria, South Africa  
+    Email: malosejim421@gmail.com  
+    Phone: 079 897 6062  
+    Location: Pretoria, South Africa  
 
     *Let's collaborate, learn, and grow mathematics together.*
     </div>
