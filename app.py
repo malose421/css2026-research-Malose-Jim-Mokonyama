@@ -171,7 +171,7 @@ elif page == "Contact":
 
     st.markdown("""
     <div class="card">
-    Email: malosejim421@gmail.com  
+    Email: malosejim421@gmail.com  \n
     Phone: 079 897 6062  
     Location: Pretoria, South Africa  
 
